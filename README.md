@@ -1,35 +1,33 @@
-# ✈️ US Flight Analysis Dashboard
+# ✈️ Final Project
 
-## Project Overview
+## US Flight Analysis Dashboard
 
-This project analyses US flight operations using Python, Pandas, Plotly and Streamlit.
+### Project Overview
 
-The dashboard provides interactive visualisations for:
-
-- Flight distribution by state
-- Weather delays
-- Flight distance
-- Air time
-- Late aircraft delay
-- Interactive filtering
-
----
+This project analyses US flight operations using Python, Pandas, Plotly and Streamlit. The dashboard provides interactive visualizations to analyse flight performance, weather delays, flight distance, air time and state-wise flight operations.
 
 ## Technologies Used
 
 - Python
 - Pandas
+- NumPy
 - Plotly
 - Streamlit
 - Jupyter Notebook
 
----
+## Features
+
+- Interactive dashboard
+- State and Month filters
+- Flight statistics
+- Weather delay analysis
+- Flight distance analysis
+- Air time analysis
+- Dynamic charts
 
 ## Dataset
 
 US Flight Dataset (January–February 2024)
-
----
 
 ## How to Run
 
@@ -37,8 +35,9 @@ US Flight Dataset (January–February 2024)
 streamlit run app.py
 ```
 
----
-
 ## Author
 
-dheeraj dabbeti 
+**DHEERAJ DABBETI**
+
+MSc Data Science  
+University of Europe for Applied Sciences
